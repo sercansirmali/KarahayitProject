@@ -1,0 +1,14 @@
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.EntityLayer\bin\Debug\net7.0\HastaneProject.EntityLayer.deps.json
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.EntityLayer\bin\Debug\net7.0\HastaneProject.EntityLayer.runtimeconfig.json
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.EntityLayer\bin\Debug\net7.0\HastaneProject.EntityLayer.dll
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.EntityLayer\bin\Debug\net7.0\HastaneProject.EntityLayer.pdb
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.EntityLayer\obj\Debug\net7.0\HastaneProject.EntityLayer.csproj.AssemblyReference.cache
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.EntityLayer\obj\Debug\net7.0\HastaneProject.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.EntityLayer\obj\Debug\net7.0\HastaneProject.EntityLayer.AssemblyInfoInputs.cache
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.EntityLayer\obj\Debug\net7.0\HastaneProject.EntityLayer.AssemblyInfo.cs
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.EntityLayer\obj\Debug\net7.0\HastaneProject.EntityLayer.csproj.CoreCompileInputs.cache
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.EntityLayer\obj\Debug\net7.0\HastaneProject.EntityLayer.dll
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.EntityLayer\obj\Debug\net7.0\refint\HastaneProject.EntityLayer.dll
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.EntityLayer\obj\Debug\net7.0\HastaneProject.EntityLayer.pdb
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.EntityLayer\obj\Debug\net7.0\HastaneProject.EntityLayer.genruntimeconfig.cache
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.EntityLayer\obj\Debug\net7.0\ref\HastaneProject.EntityLayer.dll

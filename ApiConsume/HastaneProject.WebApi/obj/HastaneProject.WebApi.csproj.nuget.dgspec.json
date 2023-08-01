@@ -1,0 +1,448 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.WebApi\\HastaneProject.WebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.BusinessLayer\\HastaneProject.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.BusinessLayer\\HastaneProject.BusinessLayer.csproj",
+        "projectName": "HastaneProject.BusinessLayer",
+        "projectPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.BusinessLayer\\HastaneProject.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Pau\\.nuget\\packages\\",
+        "outputPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.DataAccessLayer\\HastaneProject.DataAccessLayer.csproj": {
+                "projectPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.DataAccessLayer\\HastaneProject.DataAccessLayer.csproj"
+              },
+              "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.EntityLayer\\HastaneProject.EntityLayer.csproj": {
+                "projectPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.EntityLayer\\HastaneProject.EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.DataAccessLayer\\HastaneProject.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.DataAccessLayer\\HastaneProject.DataAccessLayer.csproj",
+        "projectName": "HastaneProject.DataAccessLayer",
+        "projectPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.DataAccessLayer\\HastaneProject.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Pau\\.nuget\\packages\\",
+        "outputPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.EntityLayer\\HastaneProject.EntityLayer.csproj": {
+                "projectPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.EntityLayer\\HastaneProject.EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.DtoLayer\\HastaneProject.DtoLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.DtoLayer\\HastaneProject.DtoLayer.csproj",
+        "projectName": "HastaneProject.DtoLayer",
+        "projectPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.DtoLayer\\HastaneProject.DtoLayer.csproj",
+        "packagesPath": "C:\\Users\\Pau\\.nuget\\packages\\",
+        "outputPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.DtoLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.EntityLayer\\HastaneProject.EntityLayer.csproj": {
+                "projectPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.EntityLayer\\HastaneProject.EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.EntityLayer\\HastaneProject.EntityLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.EntityLayer\\HastaneProject.EntityLayer.csproj",
+        "projectName": "HastaneProject.EntityLayer",
+        "projectPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.EntityLayer\\HastaneProject.EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\Pau\\.nuget\\packages\\",
+        "outputPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.EntityLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.WebApi\\HastaneProject.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.WebApi\\HastaneProject.WebApi.csproj",
+        "projectName": "HastaneProject.WebApi",
+        "projectPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.WebApi\\HastaneProject.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Pau\\.nuget\\packages\\",
+        "outputPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.BusinessLayer\\HastaneProject.BusinessLayer.csproj": {
+                "projectPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.BusinessLayer\\HastaneProject.BusinessLayer.csproj"
+              },
+              "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.DataAccessLayer\\HastaneProject.DataAccessLayer.csproj": {
+                "projectPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.DataAccessLayer\\HastaneProject.DataAccessLayer.csproj"
+              },
+              "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.DtoLayer\\HastaneProject.DtoLayer.csproj": {
+                "projectPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.DtoLayer\\HastaneProject.DtoLayer.csproj"
+              },
+              "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.EntityLayer\\HastaneProject.EntityLayer.csproj": {
+                "projectPath": "D:\\proje\\KarahayitWeb\\KarahayitProject\\ApiConsume\\HastaneProject.EntityLayer\\HastaneProject.EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

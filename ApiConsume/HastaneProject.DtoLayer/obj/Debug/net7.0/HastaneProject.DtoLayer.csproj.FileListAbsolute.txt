@@ -1,0 +1,17 @@
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\bin\Debug\net7.0\HastaneProject.DtoLayer.deps.json
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\bin\Debug\net7.0\HastaneProject.DtoLayer.runtimeconfig.json
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\bin\Debug\net7.0\HastaneProject.DtoLayer.dll
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\bin\Debug\net7.0\HastaneProject.DtoLayer.pdb
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\bin\Debug\net7.0\HastaneProject.EntityLayer.dll
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\bin\Debug\net7.0\HastaneProject.EntityLayer.pdb
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\obj\Debug\net7.0\HastaneProject.DtoLayer.csproj.AssemblyReference.cache
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\obj\Debug\net7.0\HastaneProject.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\obj\Debug\net7.0\HastaneProject.DtoLayer.AssemblyInfoInputs.cache
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\obj\Debug\net7.0\HastaneProject.DtoLayer.AssemblyInfo.cs
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\obj\Debug\net7.0\HastaneProject.DtoLayer.csproj.CoreCompileInputs.cache
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\obj\Debug\net7.0\HastaneProject.DtoLayer.csproj.CopyComplete
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\obj\Debug\net7.0\HastaneProject.DtoLayer.dll
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\obj\Debug\net7.0\refint\HastaneProject.DtoLayer.dll
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\obj\Debug\net7.0\HastaneProject.DtoLayer.pdb
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\obj\Debug\net7.0\HastaneProject.DtoLayer.genruntimeconfig.cache
+D:\proje\KarahayitWeb\KarahayitProject\ApiConsume\HastaneProject.DtoLayer\obj\Debug\net7.0\ref\HastaneProject.DtoLayer.dll
